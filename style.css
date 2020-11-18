@@ -1,0 +1,18 @@
+body{
+    background-color:black;
+}
+
+h1{
+    text-align: center;
+    color: darkgray;
+}
+
+p{
+    color:lightgrey;
+    text-align: center;
+}
+
+.center{
+    width:100%;
+}
+
