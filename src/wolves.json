@@ -26,43 +26,6 @@
         "name": "Wolf Five",
         "animaltype": "mammal"
     
-    },
-    {
-        "id": 6,
-        "name": "Wolf Six",
-        "animaltype": "mammal"
-    },
-    {
-        "id": 7,
-        "name": "Wolf Seven",
-        "animaltype": "mammal"
-    
-    },
-    {
-        "id": 8,
-        "name": "Wolf Eight",
-        "animaltype": "mammal"
-    },
-    {
-        "id": 9,
-        "name": "Wolf Nine",
-        "animaltype": "mammal"
-    
-    },
-    {
-        "id": 10,
-        "name": "Wolf Ten",
-        "animaltype": "mammal"
-    },
-    {
-        "id": 11,
-        "name": "Wolf Eleven",
-        "animaltype": "mammal"
-    
-    },
-    {
-        "id": 12,
-        "name": "Wolf Twelve",
-        "animaltype": "mammal"
     }
+
 ]

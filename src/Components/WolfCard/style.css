@@ -1,12 +1,38 @@
 .card {
     background: #fff;
-    border-radius: 5px;
-    height: 325px;
+    border-radius: 2px;
+    height: 600px;
     margin: 1rem;
     position: relative;
     width: 325px;
-    box-shadow: 0 3px 6px rgb(206, 134, 134), 0 3px 6px #999;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
     text-align: left;
 }
   
+.img-container {
+    height: 80%;
+    overflow: hidden;
+    text-align: center;
+    background:#d6e0e6;
+}
+  
+img {
+    width: 100%;
+}
+
+.content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 20px;
+}
+  
+  .card > .content > ul {
+    list-style-type: none;
+  }
+  
+  .card > .content > ul > li {
+    margin-top: 18px;
+  }
+  
+
   

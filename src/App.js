@@ -1,31 +1,29 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Title from "./Components/Title";
 import Wrapper from "./Components/Wrapper";
 import WolfCard from './Components/WolfCard';
 import wolves from "./wolves.json";
+import wolfimageone from "./Images/wolf1.jpg"
 
-class App extends Component {
 
-  state = {
-    wolves
-  };
-
-  render(){
+function App(){
     return(
-      <Wrapper>
-        <Title>The Wolf Page</Title>
-        {this.state.wolves.map(wolve => (
-          <WolfCard
-          name={wolve.name}
-          animaltype={wolve.animaltype}
-          
-          />
-        ))}
-        
-      </Wrapper>
-      )
-  }
+    <Wrapper>
+      <Title>Wolves</Title>
+      <WolfCard
+      name={wolves[0].name}
+      image={wolfimageone}
+      />
+      <WolfCard
+      name={wolves[1].name}
+      image={wolfimageone}
+      />
+      <WolfCard
+      name={wolves[3].name}
+      image={wolfimageone}
+      />
+    </Wrapper>
+    );
 
 }
-
 export default App;
