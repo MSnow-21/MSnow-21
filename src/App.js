@@ -3,7 +3,9 @@ import Title from "./Components/Title";
 import Wrapper from "./Components/Wrapper";
 import WolfCard from './Components/WolfCard';
 import wolves from "./wolves.json";
-import wolfimageone from "./Images/wolf1.jpg"
+import wolfimageone from "./Images/wolf1.jpg";
+import wolfimagefour from "./Images/wolf4.jpg";
+import wolfimagethree from "./Images/wolf3.jpg";
 
 
 function App(){
@@ -16,11 +18,11 @@ function App(){
       />
       <WolfCard
       name={wolves[1].name}
-      image={wolfimageone}
+      image={wolfimagefour}
       />
       <WolfCard
       name={wolves[3].name}
-      image={wolfimageone}
+      image={wolfimagethree}
       />
     </Wrapper>
     );
