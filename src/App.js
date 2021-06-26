@@ -14,15 +14,15 @@ function App(){
     <Wrapper>
       <About />
       <WolfCard
-      name={wolves[0].name}
+      fact={wolves[0].fact}
       image={wolfimageone}
       />
       <WolfCard
-      name={wolves[1].name}
+      fact={wolves[1].fact}
       image={wolfimagefour}
       />
       <WolfCard
-      name={wolves[3].name}
+      fact={wolves[2].fact}
       image={wolfimagethree}
       />
     </Wrapper>

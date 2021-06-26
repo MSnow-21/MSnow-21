@@ -1,29 +1,29 @@
 [
     {
         "id": 1,
-        "name": "Wolf One",
+        "fact": "The Wolf is also known as the Gray Wolf. Another name is the Timber Wolf",
         "animaltype": "mammal"
     
     },
     {
         "id": 2,
-        "name": "Wolf Two",
+        "fact": "Habitats include the northern areas of North America and other northern continents",
         "animaltype": "mammal"
     },
     {
         "id": 3,
-        "name": "Wolf Three",
+        "fact": "Wolves are known for howling, which is how they communicate with each other",
         "animaltype": "mammal"
     
     },
     {
         "id": 4,
-        "name": "Wolf Four",
+        "fact": "Wolf Four",
         "animaltype": "mammal"
     },
     {
         "id": 5,
-        "name": "Wolf Five",
+        "fact": "Wolf Five",
         "animaltype": "mammal"
     
     }
