@@ -12,6 +12,7 @@ import wolfimagethree from "./Images/wolf3.jpg";
 function App(){
     return(
     <Wrapper>
+      <Title>The Wonderful Wolf</Title>
       <About />
       <WolfCard
       fact={wolves[0].fact}
