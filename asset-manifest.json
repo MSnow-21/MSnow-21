@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Wolf/static/css/main.3008ffa8.chunk.css",
+    "main.js": "/Wolf/static/js/main.b485c363.chunk.js",
+    "main.js.map": "/Wolf/static/js/main.b485c363.chunk.js.map",
+    "runtime-main.js": "/Wolf/static/js/runtime-main.69c2beaf.js",
+    "runtime-main.js.map": "/Wolf/static/js/runtime-main.69c2beaf.js.map",
+    "static/js/2.7880d88a.chunk.js": "/Wolf/static/js/2.7880d88a.chunk.js",
+    "static/js/2.7880d88a.chunk.js.map": "/Wolf/static/js/2.7880d88a.chunk.js.map",
+    "static/js/3.a9aa2243.chunk.js": "/Wolf/static/js/3.a9aa2243.chunk.js",
+    "static/js/3.a9aa2243.chunk.js.map": "/Wolf/static/js/3.a9aa2243.chunk.js.map",
+    "index.html": "/Wolf/index.html",
+    "static/css/main.3008ffa8.chunk.css.map": "/Wolf/static/css/main.3008ffa8.chunk.css.map",
+    "static/js/2.7880d88a.chunk.js.LICENSE.txt": "/Wolf/static/js/2.7880d88a.chunk.js.LICENSE.txt",
+    "static/media/wolf1.d81e331b.jpg": "/Wolf/static/media/wolf1.d81e331b.jpg",
+    "static/media/wolf3.591094e2.jpg": "/Wolf/static/media/wolf3.591094e2.jpg",
+    "static/media/wolf4.926f94ef.jpg": "/Wolf/static/media/wolf4.926f94ef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69c2beaf.js",
+    "static/js/2.7880d88a.chunk.js",
+    "static/css/main.3008ffa8.chunk.css",
+    "static/js/main.b485c363.chunk.js"
+  ]
+}
