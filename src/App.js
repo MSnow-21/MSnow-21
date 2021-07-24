@@ -37,26 +37,31 @@ function App(){
       number={wolves[3].number}
       fact={wolves[3].fact}
       image={wolfimagefour}
+      source={wolves[3].src}
       />
       <WolfCard
       number={wolves[4].number}
       fact={wolves[4].fact}
       image={wolfimagefive}
+      source={wolves[4].src}
       />
       <WolfCard
       number={wolves[5].number}
       fact={wolves[5].fact}
       image={wolfimagesix}
+      source={wolves[5].src}
       />
       <WolfCard
       number={wolves[6].number}
       fact={wolves[6].fact}
       image={wolfimageseven}
+      source={wolves[6].src}
       />
       <WolfCard
       number={wolves[7].number}
       fact={wolves[7].fact}
       image={wolfimageeight}
+      source={wolves[7].src}
       />      
     </Wrapper>
     );

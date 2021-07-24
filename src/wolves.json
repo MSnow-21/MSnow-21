@@ -1,46 +1,51 @@
 [
     {
         "id": 1,
-        "fact": "The Wolf is also known as the Gray Wolf. Another name is the Timber Wolf",
+        "fact": "The Wolf is also known as the Gray Wolf. Another name for it is the Timber Wolf.",
         "number": "One"
     
     },
     {
         "id": 2,
-        "fact": "Habitats include the northern areas of North America and other northern continents",
+        "fact": "Habitats include the northern areas of North America and other northern continents.",
         "number": "Two"
     },
     {
         "id": 3,
-        "fact": "Wolves howl, which is how they communicate with each other",
+        "fact": "Wolves howl, which is how they communicate with each other.",
         "number": "Three"
     
     },
     {
         "id": 4,
         "fact": "Wolves typically live up to 13 years in the wild",
-        "number": "Four"
+        "number": "Four",
+        "src": "Source: wolf.org"
     },
     {
         "id": 5,
         "fact": "Wolves have a total of 42 teeth",
-        "number": "Five"
+        "number": "Five",
+        "src": "Source: wolf.org"
     
     },
     {
         "id": 6,
-        "fact": "Wolves can have a pack size of up to 30 or more members",
-        "number": "Six"
+        "fact": "Wolves can have a pack size of up to 30 or more members.",
+        "number": "Six",
+        "src": "Source: wolf.org"
     },
     {
         "id": 7,
-        "fact": "Fact seven",
-        "number": "Seven"
+        "fact": "Wolves are carnavores (meat eaters). They typically feed on moose and deer.",
+        "number": "Seven",
+        "src": "Source: wolf.org"
     },
     {
         "id": 8,
-        "fact": "Fact Eight",
-        "number": "Eight"
+        "fact": "Wolves are fast! They can run up to 38 miles per hour!",
+        "number": "Eight",
+        "src": "Source: wolf.org"
     }
 
 ]
