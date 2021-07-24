@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/Wolf/static/css/main.3008ffa8.chunk.css",
-    "main.js": "/Wolf/static/js/main.b485c363.chunk.js",
-    "main.js.map": "/Wolf/static/js/main.b485c363.chunk.js.map",
-    "runtime-main.js": "/Wolf/static/js/runtime-main.69c2beaf.js",
-    "runtime-main.js.map": "/Wolf/static/js/runtime-main.69c2beaf.js.map",
-    "static/js/2.7880d88a.chunk.js": "/Wolf/static/js/2.7880d88a.chunk.js",
-    "static/js/2.7880d88a.chunk.js.map": "/Wolf/static/js/2.7880d88a.chunk.js.map",
-    "static/js/3.a9aa2243.chunk.js": "/Wolf/static/js/3.a9aa2243.chunk.js",
-    "static/js/3.a9aa2243.chunk.js.map": "/Wolf/static/js/3.a9aa2243.chunk.js.map",
+    "main.css": "/Wolf/static/css/main.2679e69b.chunk.css",
+    "main.js": "/Wolf/static/js/main.43810bc4.chunk.js",
+    "main.js.map": "/Wolf/static/js/main.43810bc4.chunk.js.map",
+    "runtime-main.js": "/Wolf/static/js/runtime-main.0da820ce.js",
+    "runtime-main.js.map": "/Wolf/static/js/runtime-main.0da820ce.js.map",
+    "static/js/2.d51af779.chunk.js": "/Wolf/static/js/2.d51af779.chunk.js",
+    "static/js/2.d51af779.chunk.js.map": "/Wolf/static/js/2.d51af779.chunk.js.map",
     "index.html": "/Wolf/index.html",
-    "static/css/main.3008ffa8.chunk.css.map": "/Wolf/static/css/main.3008ffa8.chunk.css.map",
-    "static/js/2.7880d88a.chunk.js.LICENSE.txt": "/Wolf/static/js/2.7880d88a.chunk.js.LICENSE.txt",
-    "static/media/wolf1.d81e331b.jpg": "/Wolf/static/media/wolf1.d81e331b.jpg",
-    "static/media/wolf3.591094e2.jpg": "/Wolf/static/media/wolf3.591094e2.jpg",
-    "static/media/wolf4.926f94ef.jpg": "/Wolf/static/media/wolf4.926f94ef.jpg"
+    "static/css/main.2679e69b.chunk.css.map": "/Wolf/static/css/main.2679e69b.chunk.css.map",
+    "static/js/2.d51af779.chunk.js.LICENSE.txt": "/Wolf/static/js/2.d51af779.chunk.js.LICENSE.txt",
+    "static/media/andrew-ly-iUA1cea8QiY-unsplash.2d259024.jpg": "/Wolf/static/media/andrew-ly-iUA1cea8QiY-unsplash.2d259024.jpg",
+    "static/media/chris-ensminger-i6yrDhfZ-XQ-unsplash.d81e331b.jpg": "/Wolf/static/media/chris-ensminger-i6yrDhfZ-XQ-unsplash.d81e331b.jpg",
+    "static/media/marc-olivier-jodoin-tauPAnOIGvE-unsplash.09dde251.jpg": "/Wolf/static/media/marc-olivier-jodoin-tauPAnOIGvE-unsplash.09dde251.jpg",
+    "static/media/marek-szturc-CM1oVEUzsNM-unsplash.591094e2.jpg": "/Wolf/static/media/marek-szturc-CM1oVEUzsNM-unsplash.591094e2.jpg",
+    "static/media/marek-szturc-n3qWOO_WO3E-unsplash.fe5c4f42.jpg": "/Wolf/static/media/marek-szturc-n3qWOO_WO3E-unsplash.fe5c4f42.jpg",
+    "static/media/philipp-pilz-QZ2EQuPpQJs-unsplash.89e5c3d1.jpg": "/Wolf/static/media/philipp-pilz-QZ2EQuPpQJs-unsplash.89e5c3d1.jpg",
+    "static/media/simon-infanger-nFRghBvqSb0-unsplash.2018efb2.jpg": "/Wolf/static/media/simon-infanger-nFRghBvqSb0-unsplash.2018efb2.jpg",
+    "static/media/tahoe-Ikge1ZIk9yc-unsplash.926f94ef.jpg": "/Wolf/static/media/tahoe-Ikge1ZIk9yc-unsplash.926f94ef.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.69c2beaf.js",
-    "static/js/2.7880d88a.chunk.js",
-    "static/css/main.3008ffa8.chunk.css",
-    "static/js/main.b485c363.chunk.js"
+    "static/js/runtime-main.0da820ce.js",
+    "static/js/2.d51af779.chunk.js",
+    "static/css/main.2679e69b.chunk.css",
+    "static/js/main.43810bc4.chunk.js"
   ]
 }
