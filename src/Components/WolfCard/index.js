@@ -8,7 +8,7 @@ function WolfCard(props) {
                 <img alt={props.name} src={props.image} />
             </div>
             <div className="content">
-                <h3 className="headingfact">Interesting Facts</h3>
+                <h3 className="headingfact">Interesting Fact: {props.number}</h3>
                 <p>{props.fact}</p>
             </div>
 
