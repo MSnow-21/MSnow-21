@@ -18,14 +18,29 @@
     },
     {
         "id": 4,
-        "fact": "Wolf Four",
+        "fact": "Wolves typically live up to 13 years in the wild",
         "number": "Four"
     },
     {
         "id": 5,
-        "fact": "Wolf Five",
+        "fact": "Wolves have a total of 42 teeth",
         "number": "Five"
     
+    },
+    {
+        "id": 6,
+        "fact": "Wolves can have a pack size of up to 30 or more members",
+        "number": "Six"
+    },
+    {
+        "id": 7,
+        "fact": "Fact seven",
+        "number": "Seven"
+    },
+    {
+        "id": 8,
+        "fact": "Fact Eight",
+        "number": "Eight"
     }
 
 ]
