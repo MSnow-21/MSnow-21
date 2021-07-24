@@ -5,13 +5,13 @@
     height:100%;
     position: relative;
     width: 370px;
+    height: 750px;
     box-shadow:  5px 10px 5px #999;
     text-align: center;
 }
   
 .img-container {
     overflow: hidden;
-    height:75%;
     text-align: center;
     background:#d6e0e6;
 }
